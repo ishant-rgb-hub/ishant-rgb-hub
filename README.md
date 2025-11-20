@@ -58,7 +58,6 @@
 
 <p align="center">
   <a href="https://www.holopin.io/@ishantrgbhub" target="_blank">
-    <img src="https://holopin.me/ishantrgbhub" alt="Holopin badge board" />
   </a>
 </p>
 
