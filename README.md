@@ -72,21 +72,18 @@
 
 ###
 <p align="center">
-  <a href="https://github.com/RishiByte/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=RishiByte&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="tushar stats" /></picture></a>
-  <a href="https://github.com/RishiByte/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=RishiByte&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiByte" alt="GitHub Streak" />
+  <a href="https://github.com/ishant-rgb-hub/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishant-rgb-hub&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="ishant stats" /></picture></a>
+  <a href="https://github.com/ishant-rgb-hub/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishant-rgb-hub&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishant-rgb-hub" alt="GitHub Streak" />
 </p>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rishi-bhardwaj-9b7371381/" target="_blank">
+  <a href="linkedin.com/home?originalSubdomain=in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/rbhardwaj1210/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/_rishi1210_/" target="_blank">
+  <a href="https://www.instagram.com/ishant__yadav__2007/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -95,12 +92,12 @@
   <b>Let’s build something amazing together!</b>
 </h2> 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishant-rgb-hub&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
 
 
 </p>
 </div>
 
 <h1 align="center" >
-<img src="https://github.com/RishiByte/RishiByte/blob/output/github-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github.com/ishant-rgb-hub/ishant-rgb-hub/blob/output/github-snake.svg" alt="e" style="max-width: 100%;">
 </h1>
