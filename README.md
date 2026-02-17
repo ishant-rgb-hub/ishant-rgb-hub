@@ -1,4 +1,3 @@
-<!-- Profile Header with GIF -->
 <h3 align="center">
   <img src="./AZqgCo075kXA_bvw-QqiAA-AZqgCo07gI8n2OkXx30KaA.jpg" width="700" height="400" alt="AI Dev GIF"/>
 </h3>
@@ -97,6 +96,5 @@
 </div>
 
 <h1 align="center" >
-<img src="https://raw.githubusercontent.com/ishant-rgb-hub/ishant-rgb-hub/main/output/snake-dark.svg"
- alt="e" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/ishant-rgb-hub/ishant-rgb-hub/main/output/snake.svg" alt="snake" style="max-width: 100%;">
 </h1>
