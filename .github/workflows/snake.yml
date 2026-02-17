@@ -22,8 +22,7 @@ jobs:
         with:
           github_user_name: ishant-rgb-hub
           outputs: |
-            ./output/snake.svg
-            ./output/snake-dark.svg
+            ./output/github-snake.svg
 
       - name: Push generated files
         uses: ad-m/github-push-action@v0.6.0
