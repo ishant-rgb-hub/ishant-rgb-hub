@@ -95,5 +95,5 @@
 </p>
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishant-rgb-hub/ishant-rgb-hub/main/output/snake.svg"  />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="coding animation" style="max-width:100%;height:auto;" />
 </p>

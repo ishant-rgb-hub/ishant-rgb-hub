@@ -22,8 +22,20 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ishant-rgb-hub
-          outputs: |
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: |
             output/snake.svg
+
+      - name: Verify generated file
+        run: |
+          echo "Listing output directory:"
+          ls -la output || { echo "output directory not found"; exit 1; }
+          if [ ! -f output/snake.svg ]; then
+            echo "ERROR: Generated SVG not found at output/snake.svg";
+            ls -la output;
+            exit 1;
+          fi
+        shell: bash
 
       - name: Push generated files
         uses: ad-m/github-push-action@v0.6.0
