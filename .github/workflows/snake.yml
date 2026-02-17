@@ -12,7 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -21,9 +22,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ishant-rgb-hub
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: |
-            ./output/github-snake.svg
+          outputs: |
+            output/snake.svg
 
       - name: Push generated files
         uses: ad-m/github-push-action@v0.6.0
