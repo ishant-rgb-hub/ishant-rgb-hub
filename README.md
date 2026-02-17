@@ -97,5 +97,5 @@
 </div>
 
 <h1 align="center" >
-<img src="https://github.com/ishant-rgb-hub/ishant-rgb-hub/blob/output/github-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/ishant-rgb-hub/ishant-rgb-hub/output/github-snake.svg" alt="e" style="max-width: 100%;">
 </h1>
