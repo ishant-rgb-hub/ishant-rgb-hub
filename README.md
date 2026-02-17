@@ -97,5 +97,7 @@
 </div>
 
 <h1 align="center" >
-<img src="https://raw.githubusercontent.com/ishant-rgb-hub/ishant-rgb-hub/main/output/github-snake.svg" alt="e" style="max-width: 100%;">
+<!-- GitHub strips scripts/JS inside SVGs in READMEs; animated SVGs may not run here. Use the raw SVG or host via GitHub Pages for the full animation. -->
+<img src="https://raw.githubusercontent.com/ishant-rgb-hub/ishant-rgb-hub/main/output/github-snake.svg" alt="Snake (static preview). For animation, view raw file or GitHub Pages." style="max-width: 100%;">
+<p style="font-size:12px;color:#999">If the snake animation is not running here, open the raw SVG: https://raw.githubusercontent.com/ishant-rgb-hub/ishant-rgb-hub/main/output/github-snake.svg or host the file via GitHub Pages.</p>
 </h1>
