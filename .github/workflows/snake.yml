@@ -20,7 +20,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: RishiByte
+          github_user_name: ishant-rgb-hub
           outputs: |
             ./output/snake.svg
             ./output/snake-dark.svg
