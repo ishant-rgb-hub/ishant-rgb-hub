@@ -88,9 +88,7 @@
   </a>
 </div>
 
-<h2 align="center">
-  <b>Let’s build something amazing together!</b>
-</h2> 
+<br><br>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishant-rgb-hub&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
 
